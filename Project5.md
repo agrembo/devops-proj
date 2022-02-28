@@ -14,7 +14,10 @@ Changed the binding-adress in sudo mysqld.cnf file on my MYSQL s-Server. From 12
 
 <img width="725" alt="Screen Shot 2022-02-28 at 3 32 06 PM" src="https://user-images.githubusercontent.com/42969522/156054488-b41d6220-4b51-4d70-9245-6df3264b0e9b.png">
 
-Create a user on the mysql-server ec2 instance & grant the user full access to the server. 
+Create a user and a database on the mysql-server ec2 instance & grant the user full access to the server. 
 
 <img width="709" alt="Screen Shot 2022-02-28 at 4 02 07 PM" src="https://user-images.githubusercontent.com/42969522/156058218-a08dbb04-243a-44a8-b419-7ec28ec01be6.png">
 
+Access mysql-server from the client using the newly created user.
+
+<img width="737" alt="Screen Shot 2022-02-28 at 4 16 45 PM" src="https://user-images.githubusercontent.com/42969522/156060284-c4885b60-76cd-4b3b-9292-e98ed6081f8b.png">
