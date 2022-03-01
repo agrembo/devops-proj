@@ -14,3 +14,22 @@
 <img width="634" alt="Screen Shot 2022-03-01 at 5 06 00 PM" src="https://user-images.githubusercontent.com/42969522/156256962-e0cf7888-29d7-425e-930d-c7c65cc35671.png">
 
 ![Screen Shot 2022-03-01 at 5 06 47 PM](https://user-images.githubusercontent.com/42969522/156256972-b1f907be-d5c5-477d-a8cc-3c895713e437.png)
+
+<img width="875" alt="Screen Shot 2022-03-01 at 5 16 30 PM" src="https://user-images.githubusercontent.com/42969522/156262008-eadcd36f-269a-4836-a438-84164dbad7a1.png">
+
+<img width="627" alt="Screen Shot 2022-03-01 at 5 16 40 PM" src="https://user-images.githubusercontent.com/42969522/156262026-436d3090-11ea-4252-ac34-eeef8164a62e.png">
+
+<img width="536" alt="Screen Shot 2022-03-01 at 5 18 17 PM" src="https://user-images.githubusercontent.com/42969522/156262037-bfa97e33-a2d2-4d36-90ab-b1cf76bda7c9.png">
+
+<img width="632" alt="Screen Shot 2022-03-01 at 5 50 38 PM" src="https://user-images.githubusercontent.com/42969522/156262214-548d63d4-136e-4d77-893f-fec141807776.png">
+
+<img width="870" alt="Screen Shot 2022-03-01 at 6 18 21 PM" src="https://user-images.githubusercontent.com/42969522/156266678-e2ddd0e2-ba20-4685-9dbc-3245a81b3db8.png">
+<img width="604" alt="Screen Shot 2022-03-01 at 6 19 01 PM" src="https://user-images.githubusercontent.com/42969522/156266694-d3d0691e-0dd2-40d4-a9a7-2ef89d223b46.png">
+<img width="871" alt="Screen Shot 2022-03-01 at 6 20 12 PM" src="https://user-images.githubusercontent.com/42969522/156266701-8773a64b-3549-40b1-8e80-090261a4f90d.png">
+<img width="703" alt="Screen Shot 2022-03-01 at 6 25 40 PM" src="https://user-images.githubusercontent.com/42969522/156266709-a2fb7ffd-40ad-477e-bf7d-242471c8c25a.png">
+<img width="490" alt="Screen Shot 2022-03-01 at 6 32 33 PM" src="https://user-images.githubusercontent.com/42969522/156266725-fe997c6a-d53e-40c2-bc32-77c47a4467cd.png">
+<img width="620" alt="Screen Shot 2022-03-01 at 6 32 55 PM" src="https://user-images.githubusercontent.com/42969522/156266733-f916c7a0-c171-496a-90e1-f373ee46b630.png">
+
+
+
+
