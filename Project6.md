@@ -1,5 +1,6 @@
 # WEB SOLUTION WITH WORDPRESS on AWS EC2 
 
+![Screen Shot 2022-03-02 at 12 05 11 PM](https://user-images.githubusercontent.com/42969522/156457875-fddf52c0-a9eb-4036-a2c1-9a556277834f.png)
 
 <img width="888" alt="Screen Shot 2022-03-01 at 4 06 37 PM" src="https://user-images.githubusercontent.com/42969522/156254914-347cf929-c3a6-4e47-8421-fa2e703ef8bf.png">
 
@@ -29,6 +30,10 @@
 <img width="703" alt="Screen Shot 2022-03-01 at 6 25 40 PM" src="https://user-images.githubusercontent.com/42969522/156266709-a2fb7ffd-40ad-477e-bf7d-242471c8c25a.png">
 <img width="490" alt="Screen Shot 2022-03-01 at 6 32 33 PM" src="https://user-images.githubusercontent.com/42969522/156266725-fe997c6a-d53e-40c2-bc32-77c47a4467cd.png">
 <img width="620" alt="Screen Shot 2022-03-01 at 6 32 55 PM" src="https://user-images.githubusercontent.com/42969522/156266733-f916c7a0-c171-496a-90e1-f373ee46b630.png">
+<img width="928" alt="Screen Shot 2022-03-01 at 6 49 04 PM" src="https://user-images.githubusercontent.com/42969522/156457915-e1fc21c5-bbd4-4d96-b875-2369105102b8.png">
+<img width="940" alt="Screen Shot 2022-03-01 at 6 49 21 PM" src="https://user-images.githubusercontent.com/42969522/156457923-3841d1f7-c89c-4c69-80f0-007bc28873a4.png">
+<img width="701" alt="Screen Shot 2022-03-02 at 4 59 04 PM" src="https://user-images.githubusercontent.com/42969522/156457929-663033c8-b4c0-4740-b579-e0fc80225a77.png">
+<img width="876" alt="Screen Shot 2022-03-02 at 4 59 18 PM" src="https://user-images.githubusercontent.com/42969522/156457941-6d53f997-7cc9-4748-9483-4d93447f0b8b.png">
 
 
 
